@@ -41,7 +41,9 @@ hero_media = "hero-academic.png"
 
 ![**SIB Days**](img/logo_sibdays.svg)
 
-If you have any question [Contact me](https://sibdays.sib.swiss/posters/235/room)
+If you have any question [contact me](https://sibdays.sib.swiss/posters/235/room)
 
 
-[{{< icon name="twitter" pack="fab" >}} Tweet about it](http://twitter.com/intent/tweet?text=%23metagenomeAtlas%20%3A%20Three%20commands%20to%20start%20analyzing%20your%20data%2C%20from%20%40SilasKieser%20at%20%23SIBDays20%20https%3A%2F%2Fdoi.org%2F10.1101%2F737528%20)
+[{{< icon name="twitter" pack="fab" >}} Tweet about it!](http://twitter.com/intent/tweet?text=%23metagenomeAtlas%20%3A%20Three%20commands%20to%20start%20analyzing%20your%20data%2C%20from%20%40SilasKieser%20at%20%23SIBDays20%20https%3A%2F%2Fdoi.org%2F10.1101%2F737528%20)
+
+<span style="text-shadow: none;"><a class="github-button" href="https://github.com/metagenome-atlas/atlas" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star this on GitHub">Star</a><script async defer src="https://buttons.github.io/buttons.js"></script></span>
