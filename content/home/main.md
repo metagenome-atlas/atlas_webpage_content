@@ -65,8 +65,12 @@ You can start using atlas with three commands:
 Atlas has only one dependency: [conda](http://anaconda.org/). All databases and other dependencies are installed **on the fly**.
 Atlas is based on snakemake which allows to run steps of the workflow in paralel on a cluster.
 
+
 ## See metagenome atlas in action
+[Video](https://asciinema.org/a/337467)
 <script async id="asciicast-337467" src="https://asciinema.org/a/337467.js" charset="utf-8"></script>
+
+
 
 
 <!-- [![asciicast](https://asciinema.org/a/337467.svg)](https://asciinema.org/a/337467) -->
@@ -74,7 +78,8 @@ Atlas is based on snakemake which allows to run steps of the workflow in paralel
 
 # Others on Metagenome-Atlas
 
-<a class="twitter-timeline" data-height="800" data-theme="dark" href="https://twitter.com/SilasKieser/timelines/1270049886436646912?ref_src=twsrc%5Etfw">Feedback Metagenome Atlas - Curated tweets by SilasKieser</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a class="twitter-timeline" data-height="800" data-theme="dark" href="https://twitter.com/SilasKieser/timelines/1270049886436646912?ref_src=twsrc%5Etfw">Others on Metagenome Atlas </a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
 
 # Try it out
@@ -104,7 +109,7 @@ We recommend you configure atlas according to your needs.
 
 
 
-[Tweet about it](https://twitter.com/intent/tweet?text=%23metagenomeAtlas%20%3A%20Three%20commands%20to%20start%20analyzing%20your%20data%2C%20from%20%40SilasKieser%20at%20%23SIBDays20%20https%3A%2F%2Fdoi.org%2F10.1101%2F737528%20)
+
 
 
 <!-- {{% alert note %}}
