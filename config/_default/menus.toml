@@ -3,20 +3,20 @@
 #     desired widget in your `content/home/` folder.
 #   The weight parameter defines the order that the links will appear in.
 
-# [[main]]
-#   name = "Home"
-#   url = "#about"
-#   weight = 10
+[[main]]
+  name = "Code"
+  url = "https://github.com/metagenome-atlas/atlas"
+  weight = 10
 #
-# [[main]]
-#   name = "Home"
-#   url = "#about"
-#   weight = 10
+[[main]]
+  name = "Docs"
+  url = "https://metagenome-atlas.rtfd.io"
+  weight = 10
 
-# [[main]]
-#   name = "Posts"
-#   url = "#posts"
-#   weight = 20
+[[main]]
+  name = "Article"
+  url = "https://doi.org/10.1186/s12859-020-03585-4"
+  weight = 20
 #
 # [[main]]
 #   name = "Projects"
