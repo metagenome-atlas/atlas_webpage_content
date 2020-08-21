@@ -40,9 +40,9 @@ subtitle = ""
 
 
 
-Metagenome-atlas is a easy-to-use metagenomic pipeline based on snakemake. It handels all steps from QC, Assembly, Binning, to Annotation.
+Metagenome-atlas is a easy-to-use metagenomic pipeline based on [snakemake](https://snakemake.github.io/). It handles all steps from QC, Assembly, Binning, to Annotation.
 
-![scheme of workflow](img/atlas_scheme.gif)
+![scheme of workflow](img/atlas_scheme.jpg)
 
 
 
@@ -63,7 +63,7 @@ You can start using atlas with three commands:
 <!-- {{< video library="1" src="caveman.mp4" autoplay="true" loop="true" >}} -->
 
 Atlas has only one dependency: [conda](http://anaconda.org/). All databases and other dependencies are installed **on the fly**.
-Atlas is based on snakemake which allows to run steps of the workflow in paralel on a cluster.
+Atlas is based on snakemake which allows to run steps of the workflow in parallel on a cluster.
 
 
 ## See metagenome atlas in action

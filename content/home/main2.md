@@ -46,30 +46,7 @@ subtitle = ""
 
 
 
-# Try it out
-If you want to try atlas and have a linux computer (OSX may also work), you can use our [example data](https://github.com/metagenome-atlas/atlas/exmple_data).
-
-For local execution we have also a [docker container](https://metagenome-atlas.readthedocs.io/en/latest/usage/getting_started.html#c-use-docker-container)
-
-For real metagenomic data atlas should be run on a _linux_ sytem, with enough memory (min ~50GB but assembly usually requires 250GB).
-
-
-## setup
-If you have more time then we recommend you to create a conda environment for atlas to avoid any conflicts of versions.
-
-```
-    conda create -y -n atlasenv
-    source activate atlasenv
-    conda install -y -c bioconda -c conda-forge metagenome-atlas
-```
-
-And you can run atlas. All other dependencies are installed in specific environments during the run of the pipeline.
-
-We recommend you configure atlas according to your needs.
-  - check the `samples.tsv`
-  - edit the `config.yaml`
-  - run atlas on any [cluster system](https://metagenome-atlas.readthedocs.io/en/latest/usage/cluster.html)
-
+# [Try it out](https://metagenome-atlas.readthedocs.io/en/latest/usage/getting_started.html)
 
 
 
