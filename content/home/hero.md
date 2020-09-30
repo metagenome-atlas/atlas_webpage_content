@@ -43,3 +43,6 @@ hero_media = "hero-academic.png"
 [{{< icon name="twitter" pack="fab" >}} Tweet about it!](http://twitter.com/intent/tweet?text=%23metagenomeAtlas%20%3A%20Three%20commands%20to%20start%20analyzing%20your%20data%2C%20from%20%40SilasKieser%20https%3A%2F%2Fbmcbioinformatics.biomedcentral.com%2Farticles%2F10.1186%2Fs12859-020-03585-4)
 
 <span style="text-shadow: none;"><a class="github-button" href="https://github.com/metagenome-atlas/atlas" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star this on GitHub">Star</a><script async defer src="https://buttons.github.io/buttons.js"></script></span>
+
+
+[Virtual class on 7. Dec 2020](https://www.sib.swiss/training/course/2020-12-metagenomics)
