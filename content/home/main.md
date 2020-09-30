@@ -42,8 +42,9 @@ subtitle = ""
 
 Metagenome-atlas is a easy-to-use metagenomic pipeline based on [snakemake](https://snakemake.github.io/). It handles all steps from QC, Assembly, Binning, to Annotation.
 
-![scheme of workflow](img/atlas_scheme.jpg)
 
+
+{{< figure library="true" src="atlas_scheme.jpg" title="Scheme of workflow" width="400px" >}}
 
 
 ## Easy to use
