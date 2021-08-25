@@ -73,11 +73,3 @@ Backgrounds can be applied to any section. Here, the *background* option is set 
 
 **To remove this section, delete `content/home/demo.md`.**
 {{% /alert %}}
-
-
-{{< tweet 1164611084659154944 >}}
-
-<a class="twitter-timeline" data-width="400" data-height="600" data-theme="light" href="https://twitter.com/SilasKieser/timelines/1264197351121567744?ref_src=twsrc%5Etfw">Metagenome Atlas - Curated tweets by SilasKieser</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-
-<script async id="asciicast-337467" src="https://asciinema.org/a/337467.js" charset="utf-8"></script>

@@ -9,7 +9,7 @@
   weight = 10
 #
 [[main]]
-  name = "Docs"
+  name = "Documentation"
   url = "https://metagenome-atlas.rtfd.io"
   weight = 10
 
@@ -17,6 +17,21 @@
   name = "Article"
   url = "https://doi.org/10.1186/s12859-020-03585-4"
   weight = 20
+
+[[main]]
+  name = "Tutorial"
+  url = "https://github.com/metagenome-atlas/Tutorial"
+  weight = 30
+
+[[main]]
+  name = "Forum"
+  url = "https://github.com/metagenome-atlas/atlas/discussions"
+  weight = 40
+
+[[main]]
+  name = "Twitter"
+  url = "https://twitter.com/SilasKieser"
+  weight = 50
 #
 # [[main]]
 #   name = "Projects"

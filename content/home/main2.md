@@ -39,34 +39,37 @@ subtitle = ""
 +++
 
 
+- [Get Started](https://metagenome-atlas.readthedocs.io/en/latest/usage/getting_started.html)
+
+- [Join the forum](https://github.com/metagenome-atlas/atlas/discussions)
+
+- [{{< icon name="twitter" pack="fab" >}} Follow me on Twitter](https://twitter.com/SilasKieser)
+
+- [Check out the documentation](https://metagenome-atlas.readthedocs.io/en/latest/)
+
+- [Do the Tutorial](https://github.com/metagenome-atlas/Tutorial)
+
 
 # Others on Metagenome-Atlas
 
-<a class="twitter-timeline" data-height="800" data-theme="dark" href="https://twitter.com/SilasKieser/timelines/1270049886436646912?ref_src=twsrc%5Etfw">Others on Metagenome Atlas </a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a class="twitter-timeline" data-height="800" data-width="800" data-theme="dark" href="https://twitter.com/SilasKieser/timelines/1270049886436646912?ref_src=twsrc%5Etfw">Others on Metagenome Atlas </a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 
-# [Try it out](https://metagenome-atlas.readthedocs.io/en/latest/usage/getting_started.html)
+[{{< icon name="twitter" pack="fab" >}} Tweet about it!](http://twitter.com/intent/tweet?text=%23metagenomeAtlas%20%3A%20Three%20commands%20to%20start%20analyzing%20your%20data%2C%20from%20%40SilasKieser%20https%3A%2F%2Fbmcbioinformatics.biomedcentral.com%2Farticles%2F10.1186%2Fs12859-020-03585-4)
 
-
-
-
-
-
-<!-- {{% alert note %}}
-This homepage section is an example of adding [elements](https://sourcethemes.com/academic/docs/writing-markdown-latex/) to the [*Blank* widget](https://sourcethemes.com/academic/docs/widgets/).
-
-
-**To remove this section, delete `content/home/demo.md`.**
-{{% /alert %}} -->
+<span style="text-shadow: none;"><a class="github-button" href="https://github.com/metagenome-atlas/atlas" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star this on GitHub">Star</a><script async defer src="https://buttons.github.io/buttons.js"></script></span>
 
 
 
 
 
-# Article
+
+
+
+<!-- # Article
 
 ATLAS: a Snakemake workflow for assembly, annotation, and genomic binning of metagenome sequence data.  
 Kieser, S., Brown, J., Zdobnov, E. M., Trajkovski, M. & McCue, L. A.  
 BMC Bioinformatics 21, 257 (2020).  
-[doi: 10.1186/s12859-020-03585-4](https://doi.org/10.1186/s12859-020-03585-4)  
+[doi: 10.1186/s12859-020-03585-4](https://doi.org/10.1186/s12859-020-03585-4)   -->
