@@ -2,7 +2,7 @@
 # Hero widget.
 widget = "hero"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
+active = false  # Activate this widget? true/false
 weight = 1  # Order that this section will appear.
 
 title = ""
@@ -41,5 +41,5 @@ hero_media = "hero-academic.png"
 
 {{% alert note %}}
 
-[Virtual class end of September 2021](https://www.oulu.fi/uniogs/node/212131)
+[Atlas v.2.9 is out](https://github.com/metagenome-atlas/atlas/releases/tag/v2.9.0)
 {{% /alert %}}
